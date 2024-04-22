@@ -122,7 +122,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Mavis-KK/Customer-Churn.git
+  git clone https://github.com/BenedictEnimel/CHURN-ANALYSIS-ON-TELCO-CUSTOMERS.git
 ```
 
 Change into the cloned repository
@@ -169,10 +169,10 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-🕵🏽‍♀️ **Mavis Korkor Kwao**
+🕵🏽‍♀️ **Benedict Kojo Enimel**
 
-- GitHub: [GitHub Profile](https://github.com/mavis-kk)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mavis-kwao-16960012b/)
+- GitHub: [GitHub Profile](https://github.com/BenedictEnimel)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/benedict-kojo-enimel-540b47195)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,7 +208,7 @@ If you like this project kindly show some love, give it a 🌟 **STAR** 🌟
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank all the free available resource made available online
+I would like to express my appreciation to my supervisors 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
